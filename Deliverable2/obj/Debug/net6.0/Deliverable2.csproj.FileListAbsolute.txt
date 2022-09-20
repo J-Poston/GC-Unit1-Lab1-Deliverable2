@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.exe
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.deps.json
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.runtimeconfig.json
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.dll
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.pdb
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.AssemblyInfo.cs
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.dll
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\refint\Deliverable2.dll
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.pdb
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.genruntimeconfig.cache
+C:\Users\John.Poston\GC\Unit1Deliverable2\Deliverable2\Deliverable2\obj\Debug\net6.0\ref\Deliverable2.dll
